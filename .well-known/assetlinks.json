@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.deeplink_cookbook",
+    "sha256_cert_fingerprints":
+    ["DE:30:49:FE:22:4C:9D:B1:0A:BD:D6:87:ED:C4:DD:FC:57:35:C2:B9:1E:7C:6D:3F:B0:43:76:2F:C4:A3:89:6A"]
+  }
+}]
