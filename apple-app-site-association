@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "NBT8SGYAUL.com.crdbbank.deeplinkCookbook"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NBT8SGYAUL.com.crdbbank.deeplinkCookbook"
+    ]
+  }
+}
